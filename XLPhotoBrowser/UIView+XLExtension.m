@@ -8,7 +8,7 @@
 
 #import "UIView+XLExtension.h"
 #import <objc/runtime.h>
-
+//测试
 @implementation UIView (XLExtension)
 
 #pragma mark    -   // 添加一个红点属性
